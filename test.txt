@@ -4,3 +4,7 @@ new line
 
 Testing some more
 
+Hello World
+
+I'm trying to learn Git
+
