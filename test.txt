@@ -8,3 +8,5 @@ Hello World
 
 I'm trying to learn Git
 
+I'm now working in a branch called test-branch.
+
